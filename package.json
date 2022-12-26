@@ -1,0 +1,35 @@
+{
+  "name": "qimo_vue",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "china-area-data": "^5.0.1",
+    "element-china-area-data": "^5.0.2",
+    "element-plus": "^2.2.25",
+    "elui-china-area-dht": "^2.0.0",
+    "mitt": "^3.0.0",
+    "qs": "^6.11.0",
+    "scss": "^0.2.4",
+    "three": "^0.147.0",
+    "vanta": "^0.5.24",
+    "vue": "^3.2.38",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "axios": "^1.2.0",
+    "node-sass": "^8.0.0",
+    "sass": "^1.56.1",
+    "sass-loader": "^13.2.0",
+    "style-resources-loader": "^1.4.1",
+    "unplugin-auto-import": "^0.11.5",
+    "unplugin-vue-components": "^0.22.11",
+    "vfonts": "^0.0.3",
+    "vite": "^3.0.9",
+    "vue-cli-plugin-style-resources-loader": "~0.1.5"
+  }
+}
